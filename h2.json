@@ -1,1 +1,26 @@
-
+[
+{
+	"question_array": ["根据基本的物质组成可以将⾏星分三种类型:Gas Giants Ice Giants Solid Ice"
+	],
+	"author": "202001050419",
+	"type": "true_false",
+	"figure": "none",
+	"explain_array": ["本题考查了对行星分类的记忆，正确答案是四种Gas Giants、 Ice Giants 、Solid Ice/Rock Bodies、 Terrestrial Bodies"],
+	"answer_array": ["false"],
+	"selected": false
+},
+{
+	"question_array": ["下列哪些状态变量是广度量？（多选）",
+		"A. 体积",
+		"B. 密度",
+		"C. 质量",
+		"D. 温度"
+	],
+	"author": "202001050419",
+	"type": "many_choice",
+	"figure": "none",
+	"explain_array": ["本题考查了对广度量与强度量的理解和应用，广度量与大小有关，故ac正确"],
+	"answer_array": ["A","C"],
+	"selected": false
+}
+]
