@@ -18,7 +18,7 @@
 	],
 	"author": "202001050419",
 	"type": "one_choice",
-	"figure": ""question1.png",
+	"figure": "question1.png",
 	"explain_array": ["本题考查了独立弹性常量，一个或者一条连线算是一个独立的弹性常量，故a正确"],
 	"answer_array": ["A"],
 	"selected": false
