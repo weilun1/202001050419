@@ -1,0 +1,36 @@
+[
+{
+	"question_array": ["应力可以用空间的三个方向xyz表示，所以应力张量是三阶张量"
+	],
+	"author": "202001050419",
+	"type": "true_false",
+	"figure": "none",
+	"explain_array": ["应力的方向和应力张量的阶没有直接关系，应力张量是一个二阶张量"],
+	"answer_array": ["false"],
+	"selected": false
+},
+{
+	"question_array": ["图中的晶系有几个独立的弹性常量？",
+		"A. 3",
+		"B. 9",
+		"C. 6",
+		"D. 0"
+	],
+	"author": "202001050419",
+	"type": "one_choice",
+	"figure": ""question1.png",
+	"explain_array": ["本题考查了独立弹性常量，一个或者一条连线算是一个独立的弹性常量，故a正确"],
+	"answer_array": ["A"],
+	"selected": false
+},
+{
+	"question_array": ["因为应⼒张量和应变张量的元素是对称的，等价于⼀个3*3的对称矩阵。所以应⼒张量与应力张量原来的9个元素仅剩6个独⽴元素"
+	],
+	"author": "202001050419",
+	"type": "true_false",
+	"figure": "none",
+	"explain_array": ["考察对应力张量和矩阵的理解"],
+	"answer_array": ["ture"],
+	"selected": false
+}
+]
