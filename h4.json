@@ -1,0 +1,26 @@
+[
+{
+	"question_array": ["多相可以分为单组分多相和多组分多相"
+	],
+	"author": "202001050419",
+	"type": "true_false",
+	"figure": "none",
+	"explain_array": ["多相可以分为单组分多相和多组分多相"],
+	"answer_array": ["ture"],
+	"selected": false
+},
+{
+	"question_array": ["组分的选取需要满足哪些条件？（多选）",
+		"A. 独立性",
+		"B. 单一性",
+		"C. 完备性",
+		"D. 可拆性"
+	],
+	"author": "202001050419",
+	"type": "many_choice",
+	"figure": "none",
+	"explain_array": ["本题考查了对组分选取的条件，是要满足独立性和完备性，故ac正确"],
+	"answer_array": ["A","C"],
+	"selected": false
+}
+]
