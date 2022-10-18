@@ -24,5 +24,17 @@
 	"explain_array": ["本题考查了对组分选取的条件，是要满足独立性和完备性，故ac正确"],
 	"answer_array": ["A","C"],
 	"selected": false
+},
+{
+	"question_array": ["根据吉布斯相律$F=C-P+2$","C是组分的个数，P是共存相的个数，F是代表自由度的独立变量个数。",
+			   "在一单项体系，如果四种物质混合组成，它们不发生化学反应，计算该系统的独立变量数"
+		
+	],
+	"author": "202001050419",
+	"type": "calculation",
+	"figure": "none",
+	"explain_array": ["本题考查了吉布斯相律公式的应用，其中C等于4，P等于1"],
+	"answer_array": ["$F=C-P+2=4-1+2=5$"],
+	"selected": false
 }
 ]
