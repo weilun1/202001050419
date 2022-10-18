@@ -1,6 +1,8 @@
 [
 {
-	"question_array": ["多相可以分为单组分多相和多组分多相"
+	"question_array": ["多相可以分为单组分多相和多组分多相",
+			   "A.正确",
+			   "B.错误"
 	],
 	"author": "202001050419",
 	"type": "true_false",
