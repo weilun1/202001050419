@@ -1,6 +1,8 @@
 [
 {
-	"question_array": ["根据基本的物质组成可以将⾏星分三种类型:Gas Giants Ice Giants Solid Ice"
+	"question_array": ["根据基本的物质组成可以将⾏星分三种类型:Gas Giants Ice Giants Solid Ice",
+			   "A.正确",
+			   "B.错误"
 	],
 	"author": "202001050419",
 	"type": "true_false",
