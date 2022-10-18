@@ -8,7 +8,7 @@
 	"type": "true_false",
 	"figure": "none",
 	"explain_array": ["本题考查了对行星分类的记忆，正确答案是四种Gas Giants、 Ice Giants 、Solid Ice/Rock Bodies、 Terrestrial Bodies"],
-	"answer_array": ["false"],
+	"answer_array": ["A"],
 	"selected": false
 },
 {
