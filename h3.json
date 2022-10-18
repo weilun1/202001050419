@@ -8,7 +8,7 @@
 	"type": "true_false",
 	"figure": "none",
 	"explain_array": ["应力的方向和应力张量的阶没有直接关系，应力张量是一个二阶张量"],
-	"answer_array": ["false"],
+	"answer_array": ["B"],
 	"selected": false
 },
 {
@@ -34,7 +34,7 @@
 	"type": "true_false",
 	"figure": "none",
 	"explain_array": ["考察对应力张量和矩阵的理解"],
-	"answer_array": ["ture"],
+	"answer_array": ["A"],
 	"selected": false
 }
 ]
