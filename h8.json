@@ -1,0 +1,27 @@
+[
+	{
+		"question_array": ["以下哪些方式可以产生X射线（多选）",
+                      "A.x射线管",
+                      "B.激光等离子体",
+                      "C.同步辐射",
+                      "D.X射线激光"],
+		"author": "202001050419",
+		"type": "many_choice",
+		"figure": "none",
+		"explain_array": ["考查对x射线的熟悉程度"],
+		"answer_array": ["ABCD"],
+		"selected": false
+	},
+	{
+	"question_array": ["地核的热对流驱动了地球磁场的产生。",
+			   "A.正确",
+			   "B.错误"
+	],
+	"author": "202001050419",
+	"type": "true_false",
+	"figure": "none",
+	"explain_array": ["本题考查了地核热对流和地球磁场的关系"],
+	"answer_array": ["A"],
+	"selected": false
+}
+]
