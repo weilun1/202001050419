@@ -1,0 +1,29 @@
+[
+{
+	"question_array": ["反应的标准摩尔吉布斯自由能小于0，则反应一定能自发进行",
+			   "A.正确",
+			   "B.错误"
+	],
+	"author": "202001050419",
+	"type": "true_false",
+	"figure": "none",
+	"explain_array": ["标准摩尔吉布斯自由能不能判断反应是否自发，只有吉布斯自由能可以"],
+	"answer_array": ["B"],
+	"selected": false
+},
+{
+	"question_array": ["以下哪个选线都是传统同位素",
+		"A. H, C, Mg",
+		"B. C, N, Li",
+		"C. C, 
+                     N, S",
+		"D. Fe, N, Li"
+	],
+	"author": "202001050419",
+	"type": "one_choice",
+	"figure": "none",
+	"explain_array": ["本题考查了对传统同位素，非传统同位素的基本了解H, C, N, O, S是常见的传统同位素，而Li Mg Fe是非传统同位素故c正确"],
+	"answer_array": ["C"],
+	"selected": false
+}
+]
