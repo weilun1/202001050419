@@ -1,39 +1,22 @@
-[（名词解释:多普勒效应）多普勒效应：由于波源和观察者之间有相对运动，感受到频率变化的现象
-{
-	"question_array": ["应力可以用空间的三个方向xyz表示，所以应力张量是三阶张量",
-			   "A.正确",
-			   "B.错误"
-	],
-	"author": "202001050419",
-	"type": "true_false",
-	"figure": "none",
-	"explain_array": ["应力的方向和应力张量的阶没有直接关系，应力张量是一个二阶张量"],
-	"answer_array": ["B"],
-	"selected": false
-},
-{
-	"question_array": ["图中的晶系有几个独立的弹性常量？",
-		"A. 3",
-		"B. 9",
-		"C. 6",
-		"D. 0"
-	],
-	"author": "202001050419",
-	"type": "one_choice",
-	"figure": "202001050419-question1.png",
-	"explain_array": ["本题考查了独立弹性常量，一个或者一条连线算是一个独立的弹性常量，故a正确"],
-	"answer_array": ["A"],
-	"selected": false
-},
-{
-		"当两个幅值和频率相近的简谐波进行叠加时，会出现幅值忽高忽低的现象（如下图）",
+[
+	{
+		"question_array": ["多普勒效应"],
+		"author": "202001050419",
+		"type": "glossary",
+		"figure": "none",
+		"explain_array": ["考察多普勒效应的概念"],
+		"answer_array": ["由于波源和观察者之间有相对运动，感受到频率变化的现象（表达了相对运动和频率变化即可得分）"],
+		"selected": false
+	},
+	{
+		"question_array": ["当两个幅值和频率相近的简谐波进行叠加时，会出现幅值忽高忽低的现象（如图）",
 			"我们称这种现象为 ~___~ "
 		],
 		"author": "202001050419",
 		"type": "fill_in",
-		"figure": "none",
-		"explain_array": ["本题考察了光拍的定义"],
-		"answer_array": ["“拍”现象/光拍"],
+		"figure": "202001050419-question1.png",
+		"explain_array": ["本题考查了光拍的概念"],
+		"answer_array": ["”拍“现象/光拍"],
 		"selected": false
 	}
 ]
